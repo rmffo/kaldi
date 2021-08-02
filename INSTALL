@@ -13,4 +13,4 @@ Option 1 (bash + makefile):
 Option 2 (cmake):
 
     Go to cmake/ and follow INSTALL.md instructions there.
-    Note, it may not be well tested and some features are missing currently.
+    Note, it may not be well tested and some features are missing currentlys.
